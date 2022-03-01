@@ -37,6 +37,17 @@ This Sharable Link is Permanent.
 
 5.OWNER_ID - Open Telegram Go to @MissRose_bot type /id to get ur Owner ID 
 
+## Deploy
+You can deploy this bot anywhere.
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Fraud-boy-bgm/File-Sharing">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 ## Telegram Support:
 
