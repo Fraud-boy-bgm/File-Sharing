@@ -2,35 +2,45 @@
 ---
 
 Telegram RoBot to Share any telegram files and get the shareable link.
+This Sharable Link is Permanent.
 
 #### Features:
 
-👉 Generate shareable link for any telegram files
+☯>> Generate shareable link for any telegram files
 
 #### Supported file types:
 
-👉 Video
+☯>> Video
 
-👉 Audio
+☯>> Audio
 
-👉 Photo
+☯>> Photo
 
-👉 Document
+☯>> Document
 
-👉 Sticker
+☯>> Sticker
 
-👉 Voice note
+☯>> Voice note
 
-👉 Video note
+☯>> Video note
+
+#### Requirements to Deploy Bot:
+
+1.API_HASH - Open my.telegram.org to get Api Hash
+2.APP_ID  - Open my.telegram.org to get App Id
+3.BOT_TOKEN - Open Telegram Create New Bot And Copy Bot Token - click to get >> [BotFather](https://telegram.dog/botfather)
+4.TRACK_CHANNEL - Open Telegram Create New Channel Make Bot As Admin and Copy channel Username
+5.OWNER_ID - Open Telegram Go to @MissRose_bot type /id to get ur Owner ID 
 
 ## Telegram Support:
 
 [![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/cinema_bus)
 [![Author](https://img.shields.io/badge/TG-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/fbb_alone)
+[![Author](https://img.shields.io/badge/TG-Co Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/iamanandh7)
 
 ## Credits, and Thanks to
 
-* [Mr.Maddy](https://telegram.dog/fbb_alone) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Mr.Maddy](https://telegram.dog/fbb_alone) for Another Ones [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 #### LICENSE
 - GPLv3
