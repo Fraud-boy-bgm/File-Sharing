@@ -107,10 +107,11 @@ async def _main(bot, update):
         return
     me = await bot.get_me()
     await update.reply_text(
-        'Here is Your Sharing Link:',
-            True,
-        reply_markup='https://telegram.dog/{me.username}?start={unique_idx.lower()}-{str(msg_id)}'
-        ) 
+        'Here is Your Sharing Link:', 
+        True,
+        reply_markup=InlineKeyboardMarkup([
+            [InlineKeyboardButton('Sharing Link', url=f'https://telegram.dog/{me.username}?start={unique_idx.lower()}-{str(msg_id)}')]
+        ]) 
     )
 
 
