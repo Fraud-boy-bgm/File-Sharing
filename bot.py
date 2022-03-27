@@ -12,8 +12,8 @@ OWNER_ID = os.environ['OWNER_ID']
 #Button
 START_BUTTONS=[
     [
-        InlineKeyboardButton('Main Channel', url='https://t.me/+6GGel6ukWokwMDFl'),
-        InlineKeyboardButton('Movie Channel', url='https://t.me/cinema_bus'),
+        InlineKeyboardButton('Main Channel', url='https://t.me/+HYbH84gnSdIyZWY1'),
+        InlineKeyboardButton('Movie Channel', url='https://t.me/+taeq5VV9uwI3Njk9'),
     ],
     [InlineKeyboardButton('Developer', url="https://t.me/fbb_alone")],
 ]
