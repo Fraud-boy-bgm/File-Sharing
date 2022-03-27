@@ -51,9 +51,8 @@ You can deploy this bot anywhere.
 
 ## Telegram Support:
 
-[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/cinema_bus)
+[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/+xB1wcanRzd45MDRl)
 [![Author](https://img.shields.io/badge/TG-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/fbb_alone)
-[![CoAuthor](https://img.shields.io/badge/TG-Co_Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/iamanandh7)
 
 ## Credits, and Thanks to
 
