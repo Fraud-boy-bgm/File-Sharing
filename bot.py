@@ -15,7 +15,7 @@ START_BUTTONS=[
         InlineKeyboardButton('Main Channel', url='https://t.me/+HYbH84gnSdIyZWY1'),
         InlineKeyboardButton('Movie Channel', url='https://t.me/+taeq5VV9uwI3Njk9'),
     ],
-    [InlineKeyboardButton('Developer', url="https://t.me/fbb_alone")],
+    [InlineKeyboardButton('Developer', url="https://t.me/fbb_alo")],
 ]
 
 # Running bot
@@ -65,7 +65,7 @@ async def _startfile(bot, update):
 # Help msg
 @xbot.on_message(filters.command('help') & filters.private)
 async def _help(bot, update):
-    await update.reply_text("Supported file types:\n\n- Video\n- Audio\n- Photo\n- Document\n- Sticker\n- GIF\n- Voice note\n- Video note\n\n If bot didn't respond, contact : @fbb_alone ", True)
+    await update.reply_text("Supported file types:\n\n- Video\n- Audio\n- Photo\n- Document\n- Sticker\n- GIF\n- Voice note\n- Video note\n\n If bot didn't respond, contact : @fbb_alo ", True)
 
 
 # Store file
