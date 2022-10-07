@@ -53,7 +53,7 @@ You can deploy this bot anywhere.
 
 [![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/+xB1wcanRzd45MDRl)
 [![Author](https://img.shields.io/badge/TG-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/fbb_alone)
-[![Author](https://img.shields.io/badge/PY-Develpoer-30302f?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxdkLCrLrTsXdtGPwZDMSTjgjFnSdxdlzWkhDxMDRRtWzjkWsjDmsPsQchhbkqWKrPwXr)
+[![Author](https://img.shields.io/badge/PY-Develpoer-30302f?style=flat&logo=whatsapp)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxdkLCrLrTsXdtGPwZDMSTjgjFnSdxdlzWkhDxMDRRtWzjkWsjDmsPsQchhbkqWKrPwXr)
 
 ## Credits, and Thanks to
 
